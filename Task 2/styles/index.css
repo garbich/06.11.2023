@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(215, 215, 215);
+    margin: 45px;
+    
+    
+
+}
+h1{
+    padding-left: 40px;
+}
+
+
+ul {
+    font-family: Arial, sans-serif;
+    list-style: none;
+   
+   
+}
+
+li{
+   
+    color: black;
+    background-color: rgb(187, 94, 112);
+    padding: 12px;
+}
+
+.red{
+    color: rgb(173, 54, 54);
+}
+
+img{
+    padding-left: 20px;
+    border-radius: 1px;
+
+}
+
+span{
+    padding-left: 11px;
+    padding-right: 9px;
+}
+
+.blue{
+    background-color: rgba(37, 116, 168, 0.571);
+}
+
+.dark_blue{
+    background-color: rgba(42, 87, 146, 0.619);
+}
+
+.grey{
+    background-color: rgb(192, 191, 191);
+}

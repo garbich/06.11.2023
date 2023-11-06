@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(215, 215, 215);
+   
+    margin-top: 40px;
+    margin-left: 20px;
+    font-family: Arial, sans-serif; 
+}
+
+.grey{
+    color: grey;
+    
+}
+
+span{
+    color: blueviolet;
+}
+
+.text{
+    font-family: cursive;
+}
